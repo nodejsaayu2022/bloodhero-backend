@@ -32,3 +32,8 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 npm run dev
+
+### 🔗 Related Repositories
+
+- 🔜 [BloodHero Frontend](https://github.com/nodejsaayu2022/bloodhero-frontend)
+
